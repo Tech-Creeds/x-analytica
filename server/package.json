@@ -1,0 +1,31 @@
+{
+  "name": "x-analytica",
+  "version": "1.0.0",
+  "description": "X network analyzer built with a combination of data structures and algorithms.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Creeds/x-analytica.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms",
+    "graphs",
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "x",
+    "analytics",
+    "network-analyzer"
+  ],
+  "author": "Tech Creeds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tech-Creeds/x-analytica/issues"
+  },
+  "homepage": "https://github.com/Tech-Creeds/x-analytica#readme"
+}
